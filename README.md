@@ -1,5 +1,9 @@
 # user_app_
-
+Kelompok 6
+Anggota:
+Muhammad Ridho-2106032
+Gina Suciyana-2106066
+Dea Puspitasari-2106069
 A new Flutter project.
 
 ## Getting Started
