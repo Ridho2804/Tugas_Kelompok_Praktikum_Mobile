@@ -1,5 +1,9 @@
 # user_app_
-
+TUGAS KELOMPOK MEMBUAT APLIKASI
+ANGGOTA:
+Muhammad Ridho
+Dea Puspitasari
+Ghina
 A new Flutter project.
 
 ## Getting Started
